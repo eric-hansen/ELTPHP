@@ -77,5 +77,3 @@ class ELTPHP {
         return json_decode($resp);
     }
 }
-
-$elt = new ELTPHP("42deb6e02b4debf7cf51546a", "90bd7eeb8db15e9e8566ea2dbb5b762f594a54c676f87bd2");
