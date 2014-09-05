@@ -1,4 +1,7 @@
 <?php
+/**
+ * This project is intended to wrap around the API for http://elt.li
+ */
 namespace EricHansen\ELTPHP;
 
 class ELTPHP {
