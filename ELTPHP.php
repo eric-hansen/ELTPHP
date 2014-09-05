@@ -1,6 +1,6 @@
 <?php
 /**
- * This project is intended to wrap around the API for http://elt.li
+ * This project is intended to wrap around the API for http://elt.li.  Config storage server!
  */
 namespace EricHansen\ELTPHP;
 
